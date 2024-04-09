@@ -1,0 +1,11 @@
+﻿SubscriptionID,SubscriptionType,Price
+1,Basic,5.99
+2,Standard,9.99
+3,Premium,14.99
+4,Family,19.99
+5,Student,4.99
+6,Duo,12.99
+7,Annual Basic,59.99
+8,Annual Standard,99.99
+9,Annual Premium,149.99
+10,Lifetime,299.99
